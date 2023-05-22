@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abdokhaled270619@gmail.com**
 
-- 📫 Education: - 9-months Diploma, Route Accdamy (Aug-2022)
+- 📫 Education: - 9-months Diploma, Route academy (Aug-2022)
 
 <br>
 

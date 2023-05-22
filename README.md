@@ -34,9 +34,7 @@
 <p align="center"> 
 <a href="https://https://react.dev/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-      alt="web" width="40" height="40" />
-       </a>
-       
+      alt="web" width="40" height="40" /></a>
        <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"

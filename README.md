@@ -26,10 +26,19 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/abdo-khaled95" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Abdo" height="30" width="40" /></a>
-  
-</p>
+      alt="Abdo" height="30" width="40" /></a></p>
 <br>
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <a href="https://ajras.sa" target="blank"> Ajras website</a></p>
+<p align="left">
+  <a href="https://mycash.sa" target="blank"> MyCash System</a></p>
+<p align="left">
+  <a href="https://mountasher.online" target="blank"> Mubashir website</a></p>
+<p align="left">
+  <a href="https://almaharh.com" target="blank">Almaharh website</a></p>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://https://react.dev/" target="_blank" rel="noreferrer"> <img

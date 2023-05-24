@@ -30,13 +30,13 @@
 <br>
 <h3 align="left">Projects:</h3>
 <p align="left">
-  <a href="https://ajras.sa" target="blank"> Ajras website</a></p>
+  <a href="https://ajras.sa" target="_blank"> Ajras website</a></p>
 <p align="left">
-  <a href="https://mycash.sa" target="blank"> MyCash System</a></p>
+  <a href="https://mycash.sa" target="_blank"> MyCash System</a></p>
 <p align="left">
-  <a href="https://mountasher.online" target="blank"> Mubashir website</a></p>
+  <a href="https://mountasher.online" target="_blank"> Mubashir website</a></p>
 <p align="left">
-  <a href="https://almaharh.com" target="blank">Almaharh website</a></p>
+  <a href="https://almaharh.com" target="_blank">Almaharh website</a></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>

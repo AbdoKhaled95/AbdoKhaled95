@@ -14,7 +14,7 @@
 
 <br>
 
-- 🌱 I’m currently working as an Front-end devloper at Montsher.
+- 🌱 I’m currently working as a Front-end devloper at Montsher.
 
 - 📫 How to reach me **abdokhaled270619@gmail.com**
 

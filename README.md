@@ -25,24 +25,5 @@
   <a href="https://www.linkedin.com/in/abdo-khaled95" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Abdo" height="30" width="40" /></a></p>
-<br>
 
-
-</div>
-
-<br>
-
-<h3>Statistical Data :-</h3>
-
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoKhaled95&show_icons=false&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="AbdoKhaled95" 
-    bg_color=#808080/></p>
-
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdoKhaled95&show_icons=true&theme=midnight-purple" align="center">
-</p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoKhaled95&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AbdoKhaled95" /></p>
 

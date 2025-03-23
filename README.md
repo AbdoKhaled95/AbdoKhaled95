@@ -14,11 +14,9 @@
 
 <br>
 
-- 🌱 I’m currently working as a Front-end devloper at Montsher.
+- 🌱 I’m currently working as a Front-end devloper at I-SOFT INTL.
 
 - 📫 How to reach me **abdokhaled270619@gmail.com**
-
-- 📫 Education: - 9-months Diploma, Route academy (Aug-2022)
 
 <br>
 
@@ -28,35 +26,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Abdo" height="30" width="40" /></a></p>
 <br>
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <a href="https://ajras.sa" target="_blank"> Ajras website</a></p>
-<p align="left">
-  <a href="https://mycash.sa" target="_blank"> MyCash System</a></p>
-<p align="left">
-  <a href="https://mountasher.online" target="_blank"> Mubashir website</a></p>
-<p align="left">
-  <a href="https://almaharh.com" target="_blank">Almaharh website</a></p>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://https://react.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-      alt="web" width="40" height="40" /></a>
-       <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>
-       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>
-       </p>
-
-<br>
 
 </div>
 
